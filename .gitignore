@@ -1,0 +1,24 @@
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# data & weights
+data/
+datasets/
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.zip
+
+# results
+runs/
+outputs/
+*.log
+
+# env & editor
+.env
+.vscode/
+.DS_Store
