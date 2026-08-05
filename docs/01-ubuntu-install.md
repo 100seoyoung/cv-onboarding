@@ -48,7 +48,6 @@ Operating System: Ubuntu 20.04.6 LTS
 Kernel: Linux 5.15.0-139-generic
 Architecture: x86-64
 ```
-ubuntu-version.png
 운영체제, 커널 버전 및 시스템 정보를 확인하였다.
 
 ## 캡처
