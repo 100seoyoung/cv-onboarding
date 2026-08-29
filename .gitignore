@@ -32,3 +32,8 @@ runs/
 # Python 캐시
 __pycache__/
 *.pyc
+
+data/
+checkpoints/
+*.ckpt
+wandb/
