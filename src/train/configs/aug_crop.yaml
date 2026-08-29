@@ -1,0 +1,21 @@
+train_size: 45000
+
+width: 32
+dropout: 0.0
+
+batch_size: 128
+
+lr: 0.05
+momentum: 0.9
+weight_decay: 0.0
+
+epochs: 30
+patience: 10
+
+seed: 42
+
+augmentation: crop
+scheduler: false
+early_stopping: false
+
+run_name: aug_crop_w32_n45000_s42

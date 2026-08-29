@@ -1,0 +1,4 @@
+model,best_epoch,val_accuracy,val_loss,runtime_minutes
+compare_smallcnn_scratch,30,0.4856,1.822531504058838,0.21580103635787964
+compare_resnet18_scratch,30,0.3336,4.6780433853149415,0.3573463718096415
+compare_resnet18_pretrained,21,0.7638,0.8112193774342537,1.1132354219754537

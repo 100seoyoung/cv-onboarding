@@ -1,0 +1,21 @@
+train_size: 10000
+
+width: 32
+dropout: 0.0
+
+batch_size: 128
+
+lr: 0.05
+momentum: 0.9
+weight_decay: 0.0
+
+epochs: 30
+patience: 10
+
+seed: 42
+
+augmentation: false
+scheduler: false
+early_stopping: false
+
+run_name: train10000_w32_lr0.05_s42
